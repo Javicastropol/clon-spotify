@@ -65,4 +65,9 @@ body {
 
 .section-title { margin-bottom: 40px; }
 
-
+.section-title::after {
+    
+    content: ""; display: block; width: 80px; height: 3px;
+    background-color: #1DB954;
+    margin: 10px auto;
+}
