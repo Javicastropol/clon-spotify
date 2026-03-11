@@ -14,7 +14,7 @@ body {
 }
 
 .main-header {
-    
+
     background-color: #FFFFFF;
     padding: 20px;
     position: sticky;
@@ -41,3 +41,11 @@ body {
     flex-direction: column;
     gap: 4px;
 }
+
+.burger-btn span {
+
+    width: 25px;
+    height: 3px;
+    background-color: #191414;
+}
+
