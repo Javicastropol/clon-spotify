@@ -21,3 +21,9 @@ body {
     z-index: 100;
 
 }
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
